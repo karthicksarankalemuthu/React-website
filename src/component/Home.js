@@ -18,7 +18,7 @@ import img from '../img/car.png';
          </div>
          
             <div   class="img col-lg-6 col-md-6  col-xm-12 col-sm-12">
-            <img class="img img-responsive"  width="500px"src={img}/>
+            <img class="img img-responsive"  width="500px" alt=""src={img}/>
             </div>
     </div>
  </div>
